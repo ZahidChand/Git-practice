@@ -40,3 +40,9 @@ class NegativeException extends Exception
 		System.out.println("NO Is Negative");
 	}
 }
+
+/* hkhgaedugj kgaejujtarhga; eklu ue kjaeyoiah/;as fdfadfgdfuad
+faefdlu fyef
+efeo uyfi
+
+*/
